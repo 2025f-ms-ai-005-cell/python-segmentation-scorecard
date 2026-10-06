@@ -1,0 +1,1 @@
+{"cases":[{"name":"Synthetic obstacle-mask comparison","reference":[[0,0,0,0,0,0],[0,1,1,1,0,0],[0,1,1,1,0,0],[0,0,0,0,0,0]],"prediction":[[0,0,0,0,0,0],[0,1,1,0,0,0],[0,1,1,1,1,0],[0,0,0,0,0,0]]},{"name":"Empty foreground: undefined overlap","reference":[[0,0],[0,0]],"prediction":[[0,0],[0,0]]}]}
